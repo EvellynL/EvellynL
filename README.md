@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Evellyn 👋
 
-- 👩‍🎓 Acadêmica de Eng. de Controle e Aut.
+- 👩‍🎓 Acadêmica de Eng. de Controle e Aut na UEA
 - 🌱 Estudando Flutter
 - 🤖 Integrante do GEAR
 - 😄 Ela/Dela
